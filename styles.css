@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.hero-section {
+  background: linear-gradient(to right, #ff7e5f, #feb47b);
+}
+
+.card {
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}
+
+.table {
+  margin-top: 20px;
+}
+
+footer {
+  margin-top: 50px;
+}
